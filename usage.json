@@ -1,0 +1,7 @@
+{
+  "daily_requests": 123,
+  "daily_limit": 250,
+  "minute_requests": 0,
+  "last_reset_day": "2026-01-23",
+  "last_minute_reset": "2026-01-23T13:44:49.208648"
+}

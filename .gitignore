@@ -1,0 +1,25 @@
+# --- SYSTÈME & PYTHON ---
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.so
+
+# --- DONNÉES LOURDES ---
+data/
+output/
+insightface_models/
+*.onnx
+*.zip
+IMAGES/ 
+_ARCHIVE/legacy_scripts/Scripts/Insta_Scrap
+_ARCHIVE/legacy_scripts/Scripts/Face_Swap
+
+# --- VIDÉOS & PERSO ---
+*.mp4
+*.mov
+Obsidian/
+
